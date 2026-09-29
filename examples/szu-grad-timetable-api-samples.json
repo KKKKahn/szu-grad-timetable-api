@@ -1,0 +1,305 @@
+{
+  "xspkjgcx.do(前3条示例)": {
+    "code": "0",
+    "datas": {
+      "xspkjgcx": {
+        "totalSize": 21,
+        "rows": [
+          {
+            "BY8": null,
+            "BY7": null,
+            "BJMC": "01",
+            "RZLBDM": null,
+            "JSSJ": 1225,
+            "KCDM": "03072",
+            "BY9": null,
+            "KSJCDM": 5,
+            "ZCBH": "001111111100000000000000000000",
+            "SFQZAP": 1,
+            "KCMC": "管理理论与实证",
+            "BJDM": "20261-02...",
+            "CZSJ": "2026-07-07 00:00:00",
+            "ZCMC": "3-10周",
+            "BZ": null,
+            "KSSJ": 1145,
+            "JSXM": "SHEN JIE",
+            "JASMC": "汇星楼1号教室",
+            "XNXQDM": "20261",
+            "BY10": null,
+            "JCFADM": "02",
+            "XH": null,
+            "JSJCDM": 5,
+            "WID": "ddcad84c...",
+            "QZAPYY": "我院专硕本学期不修读通识英语",
+            "ORDERFILTER": null,
+            "JASDM": "01601010",
+            "XQ": 2,
+            "BY2": null,
+            "CZR": "2022001128",
+            "BY1": null,
+            "XS": 8,
+            "BY4": null,
+            "BY3": null,
+            "BY6": null,
+            "BY5": null
+          },
+          {
+            "BY8": null,
+            "BY7": null,
+            "BJMC": "01",
+            "RZLBDM": null,
+            "JSSJ": 1055,
+            "KCDM": "03072",
+            "BY9": null,
+            "KSJCDM": 3,
+            "ZCBH": "001111111100000000000000000000",
+            "SFQZAP": 1,
+            "KCMC": "管理理论与实证",
+            "BJDM": "20261-02...",
+            "CZSJ": "2026-07-07 00:00:00",
+            "ZCMC": "3-10周",
+            "BZ": null,
+            "KSSJ": 1015,
+            "JSXM": "SHEN JIE",
+            "JASMC": "汇星楼1号教室",
+            "XNXQDM": "20261",
+            "BY10": null,
+            "JCFADM": "02",
+            "XH": null,
+            "JSJCDM": 3,
+            "WID": "7514865d...",
+            "QZAPYY": "我院专硕本学期不修读通识英语",
+            "ORDERFILTER": null,
+            "JASDM": "01601010",
+            "XQ": 2,
+            "BY2": null,
+            "CZR": "2022001128",
+            "BY1": null,
+            "XS": 8,
+            "BY4": null,
+            "BY3": null,
+            "BY6": null,
+            "BY5": null
+          },
+          {
+            "BY8": null,
+            "BY7": null,
+            "BJMC": "01",
+            "RZLBDM": null,
+            "JSSJ": 1140,
+            "KCDM": "03072",
+            "BY9": null,
+            "KSJCDM": 4,
+            "ZCBH": "001111111100000000000000000000",
+            "SFQZAP": 1,
+            "KCMC": "管理理论与实证",
+            "BJDM": "20261-02...",
+            "CZSJ": "2026-07-07 00:00:00",
+            "ZCMC": "3-10周",
+            "BZ": null,
+            "KSSJ": 1100,
+            "JSXM": "SHEN JIE",
+            "JASMC": "汇星楼1号教室",
+            "XNXQDM": "20261",
+            "BY10": null,
+            "JCFADM": "02",
+            "XH": null,
+            "JSJCDM": 4,
+            "WID": "3337f1c8...",
+            "QZAPYY": "我院专硕本学期不修读通识英语",
+            "ORDERFILTER": null,
+            "JASDM": "01601010",
+            "XQ": 2,
+            "BY2": null,
+            "CZR": "2022001128",
+            "BY1": null,
+            "XS": 8,
+            "BY4": null,
+            "BY3": null,
+            "BY6": null,
+            "BY5": null
+          }
+        ],
+        "extParams": {
+          "code": 1,
+          "totalPage": -1,
+          "logId": "6e43dd90..."
+        }
+      }
+    }
+  },
+  "kfdxnxqcx.do(前2条)": {
+    "code": "0",
+    "datas": {
+      "kfdxnxqcx": {
+        "totalSize": 23,
+        "rows": [
+          {
+            "BY8": null,
+            "BY7": null,
+            "RZLBDM": null,
+            "BY9": null,
+            "XNXQDM": "20261",
+            "BY10": null,
+            "KBKFRQ": "2026-07-15 00:00:00",
+            "WID": "20261",
+            "ORDERFILTER": null,
+            "XNXQDM_DISPLAY": "2026-2027学年 第一学期",
+            "BY2": null,
+            "BY1": null,
+            "BY4": null,
+            "BY3": null,
+            "BY6": null,
+            "BY5": null
+          },
+          {
+            "BY8": null,
+            "BY7": null,
+            "RZLBDM": null,
+            "BY9": null,
+            "XNXQDM": "20252",
+            "BY10": null,
+            "KBKFRQ": "2026-01-26 00:00:00",
+            "WID": "20252",
+            "ORDERFILTER": null,
+            "XNXQDM_DISPLAY": "2025-2026学年 第二学期",
+            "BY2": null,
+            "BY1": null,
+            "BY4": null,
+            "BY3": null,
+            "BY6": null,
+            "BY5": null
+          }
+        ]
+      }
+    }
+  },
+  "initXsxx.do": {
+    "data": [
+      {
+        "XH": "2610XXXXXXX",
+        "YXDM": "02003000",
+        "XM": "张三",
+        "YXDM_DISPLAY": "微众银行金融科技学院"
+      }
+    ]
+  },
+  "xsskjccx.do(前3条)": {
+    "code": "0",
+    "datas": {
+      "xsskjccx": {
+        "totalSize": 14,
+        "rows": [
+          {
+            "BY8": null,
+            "BY7": null,
+            "RZLBDM": null,
+            "JSSJ": 910,
+            "BY9": null,
+            "XNXQDM": null,
+            "BY10": null,
+            "DM": "1",
+            "JCFADM": "02",
+            "WB": 0,
+            "XH": "2610XXXXXXX",
+            "WID": null,
+            "ORDERFILTER": null,
+            "MC": "第一节",
+            "BY2": null,
+            "BY1": null,
+            "BY4": null,
+            "KSSJ": 830,
+            "BY3": null,
+            "JCFAMC": "深大标准节次",
+            "BY6": null,
+            "BY5": null
+          },
+          {
+            "BY8": null,
+            "BY7": null,
+            "RZLBDM": null,
+            "JSSJ": 955,
+            "BY9": null,
+            "XNXQDM": null,
+            "BY10": null,
+            "DM": "2",
+            "JCFADM": "02",
+            "WB": 0,
+            "XH": "2610XXXXXXX",
+            "WID": null,
+            "ORDERFILTER": null,
+            "MC": "第二节",
+            "BY2": null,
+            "BY1": null,
+            "BY4": null,
+            "KSSJ": 915,
+            "BY3": null,
+            "JCFAMC": "深大标准节次",
+            "BY6": null,
+            "BY5": null
+          },
+          {
+            "BY8": null,
+            "BY7": null,
+            "RZLBDM": null,
+            "JSSJ": 1055,
+            "BY9": null,
+            "XNXQDM": null,
+            "BY10": null,
+            "DM": "3",
+            "JCFADM": "02",
+            "WB": 0,
+            "XH": "2610XXXXXXX",
+            "WID": null,
+            "ORDERFILTER": null,
+            "MC": "第三节",
+            "BY2": null,
+            "BY1": null,
+            "BY4": null,
+            "KSSJ": 1015,
+            "BY3": null,
+            "JCFAMC": "深大标准节次",
+            "BY6": null,
+            "BY5": null
+          }
+        ]
+      }
+    }
+  },
+  "xswsckbkc.do": {
+    "code": "0",
+    "datas": {
+      "xswsckbkc": {
+        "totalSize": 1,
+        "rows": [
+          {
+            "CXSSMK": null,
+            "BY8": null,
+            "BY7": null,
+            "RZLBDM": null,
+            "KCDM": "06683",
+            "BY9": null,
+            "XNXQDM": "20261",
+            "BY10": null,
+            "KCMC": "卓越学者讲堂",
+            "BJDM": null,
+            "XH": "2610XXXXXXX",
+            "WID": "34f93ad1...",
+            "ORDERFILTER": null,
+            "BY2": null,
+            "KCH_NEW": null,
+            "BY1": null,
+            "BY4": null,
+            "BY3": null,
+            "BY6": null,
+            "BY5": null
+          }
+        ],
+        "extParams": {
+          "code": 1,
+          "totalPage": -1,\n          "logId": "b75fbca3..."
+        }
+      }
+    }
+  }
+}

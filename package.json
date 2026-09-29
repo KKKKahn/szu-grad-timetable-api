@@ -1,0 +1,21 @@
+{
+  "name": "szu-grad-timetable-api",
+  "version": "1.0.0",
+  "description": "深圳大学研究生课表接口逆向指南与 Playwright 最小实现",
+  "type": "module",
+  "scripts": {
+    "timetable": "node examples/fetch-timetable.mjs"
+  },
+  "keywords": [
+    "szu",
+    "shenzhen-university",
+    "timetable",
+    "ehall",
+    "playwright",
+    "cas"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "playwright": "^1.48.0"
+  }
+}
