@@ -35,7 +35,7 @@
             "JASDM": "01601010",
             "XQ": 2,
             "BY2": null,
-            "CZR": "2022001128",
+            "CZR": "2022XXXXXX",
             "BY1": null,
             "XS": 8,
             "BY4": null,
@@ -73,7 +73,7 @@
             "JASDM": "01601010",
             "XQ": 2,
             "BY2": null,
-            "CZR": "2022001128",
+            "CZR": "2022XXXXXX",
             "BY1": null,
             "XS": 8,
             "BY4": null,
@@ -111,7 +111,7 @@
             "JASDM": "01601010",
             "XQ": 2,
             "BY2": null,
-            "CZR": "2022001128",
+            "CZR": "2022XXXXXX",
             "BY1": null,
             "XS": 8,
             "BY4": null,
@@ -297,7 +297,8 @@
         ],
         "extParams": {
           "code": 1,
-          "totalPage": -1,\n          "logId": "b75fbca3..."
+          "totalPage": -1,
+          "logId": "b75fbca3..."
         }
       }
     }

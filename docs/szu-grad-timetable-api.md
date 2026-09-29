@@ -213,7 +213,7 @@ https://ehall.szu.edu.cn/gsapp/sys/wdkbapp/*default/index.do?EMAP_LANG=zh&THEME=
           "XS": 8,
           "KCDM": "03072", "BJDM": "20261-02...", "JASDM": "01601010",
           "SFQZAP": 1, "CZSJ": "2026-07-07 00:00:00", "QZAPYY": null,
-          "WID": "ddcad84c...", "CZR": "2022001128"
+          "WID": "ddcad84c...", "CZR": "2022XXXXXX"
         }
       ]
     }
