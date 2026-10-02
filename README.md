@@ -8,6 +8,8 @@
 
 通过程序化方式登录深圳大学统一身份认证（金智 CAS），抓取研究生「我的课表」数据，拿到结构化的课程 JSON：课程名、星期、周次、时间、教室、教师等。
 
+本科生入口也已提供 Playwright 实现：`npm run timetable:undergrad`。它访问 `jwapp/sys/wdkb`，与研究生的 `gsapp/sys/wdkbapp` 分开；入口 URL 要保留 eHall 生成的 `amp_sec_version_` 参数。说明和服务器复现步骤见 [`docs/undergraduate-timetable-playwright.md`](docs/undergraduate-timetable-playwright.md)。
+
 所有接口均为实机抓包实测，响应示例已脱敏，**不含任何真实凭据**。
 
 - 适用身份：深大**在读研究生**

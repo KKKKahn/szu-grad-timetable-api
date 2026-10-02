@@ -4,7 +4,8 @@
   "description": "深圳大学研究生课表接口逆向指南与 Playwright 最小实现",
   "type": "module",
   "scripts": {
-    "timetable": "node examples/fetch-timetable.mjs"
+    "timetable": "node examples/fetch-timetable.mjs",
+    "timetable:undergrad": "node examples/fetch-undergrad-timetable.mjs"
   },
   "keywords": [
     "szu",
@@ -16,6 +17,6 @@
   ],
   "license": "MIT",
   "dependencies": {
-    "playwright": "^1.48.0"
+    "playwright": "1.63.0"
   }
 }
